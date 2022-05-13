@@ -1,5 +1,6 @@
 # KubikGame
  Some classes of the KubikGame Android app
+ 
 ***Android app not included, only game engine***
 
 MatrixGame is the class containing game logics. Boardgame, Tiles movement and Tiles placement are managed inside this class
